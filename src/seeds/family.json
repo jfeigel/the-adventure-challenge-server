@@ -1,0 +1,502 @@
+[
+  {
+    "name": "KUNG FU PIÑATA",
+    "order": 1,
+    "icons": ["supplies", "daylight", "outdoors"],
+    "cost": [30, 60],
+    "timeOfDay": "BEFORE DARK",
+    "duration": [2, 3],
+    "durationUnits": "HRS",
+    "completed": false
+  },
+  {
+    "name": "FLOATERS",
+    "order": 2,
+    "icons": ["supplies", "outdoors"],
+    "cost": [5, 15],
+    "timeOfDay": "ANYTIME",
+    "duration": [1],
+    "durationUnits": "HR",
+    "completed": false
+  },
+  {
+    "name": "DON'T KNOCK 'EM DEAD",
+    "order": 3,
+    "icons": ["away"],
+    "cost": [10, 50],
+    "timeOfDay": "BEFORE 9PM",
+    "duration": [2, 3],
+    "durationUnits": "HRS",
+    "completed": false
+  },
+  {
+    "name": "CAT BURGLAR",
+    "order": 4,
+    "icons": ["indoors", "active"],
+    "cost": [0, 10],
+    "timeOfDay": "ANYTIME",
+    "duration": [1],
+    "durationUnits": "HR",
+    "completed": false
+  },
+  {
+    "name": "WATCH ME WHIP",
+    "order": 5,
+    "icons": ["indoors", "filming"],
+    "cost": [0],
+    "timeOfDay": "ANYTIME",
+    "duration": [30, 60],
+    "durationUnits": "MIN",
+    "completed": false
+  },
+  {
+    "name": "FRUIT NINJA",
+    "order": 6,
+    "icons": ["supplies", "mess", "outdoors", "filming"],
+    "cost": [15, 25],
+    "timeOfDay": "BEFORE DARK",
+    "duration": [30, 60],
+    "durationUnits": "MIN",
+    "completed": false
+  },
+  {
+    "name": "THE ARTISTRY OF WAR",
+    "order": 7,
+    "icons": ["active", "supplies", "home"],
+    "cost": [10, 20],
+    "timeOfDay": "ANYTIME",
+    "duration": [2],
+    "durationUnits": "HRS",
+    "completed": false
+  },
+  {
+    "name": "BALANCING NOODLER",
+    "order": 8,
+    "icons": ["supplies", "mess"],
+    "cost": [5, 10],
+    "timeOfDay": "ANYTIME",
+    "duration": [1],
+    "durationUnits": "HR",
+    "completed": false
+  },
+  {
+    "name": "RUSSIAN ROULEGG",
+    "order": 9,
+    "icons": ["mess", "supplies", "home"],
+    "cost": [5, 7],
+    "timeOfDay": "ANYTIME",
+    "duration": [30, 60],
+    "durationUnits": "MIN",
+    "completed": false
+  },
+  {
+    "name": "FULL SENSORY CINEMA",
+    "order": 10,
+    "icons": ["home", "outdoors", "nighttime"],
+    "cost": [0, 15],
+    "timeOfDay": "SUNSET",
+    "duration": [2, 3],
+    "durationUnits": "HRS",
+    "completed": false
+  },
+  {
+    "name": "WATER BALLOON 500",
+    "order": 11,
+    "icons": ["getWet", "outdoors", "active"],
+    "cost": [3, 10],
+    "timeOfDay": "BEFORE DARK",
+    "duration": [1, 2],
+    "durationUnits": "HRS",
+    "completed": false
+  },
+  {
+    "name": "POP THE QUESTION",
+    "order": 12,
+    "icons": ["away", "snacks", "outdoors", "daylight"],
+    "cost": [0, 15],
+    "timeOfDay": "BEFORE DARK",
+    "duration": [1, 2],
+    "durationUnits": "HRS",
+    "completed": false
+  },
+  {
+    "name": "IS THAT PRONOUNCED \"GENIUS\"?",
+    "order": 13,
+    "icons": ["supplies"],
+    "cost": [0, 15],
+    "timeOfDay": "ANYTIME",
+    "duration": [1, 2],
+    "durationUnits": "HRS",
+    "completed": false
+  },
+  {
+    "name": "VELCRO TAG",
+    "order": 14,
+    "icons": ["supplies", "outdoors", "active"],
+    "cost": [15, 25],
+    "timeOfDay": "ANYTIME",
+    "duration": [2, 3],
+    "durationUnits": "HRS",
+    "completed": false
+  },
+  {
+    "name": "SPILLOW FIGHT",
+    "order": 15,
+    "icons": ["getWet", "outdoors", "active"],
+    "cost": [0],
+    "timeOfDay": "BEFORE DARK",
+    "duration": [15, 30],
+    "durationUnits": "MIN",
+    "completed": false
+  },
+  {
+    "name": "FIVE COLORED RINGS",
+    "order": 16,
+    "icons": ["daylight", "active", "away"],
+    "cost": [0, 15],
+    "timeOfDay": "ANYTIME",
+    "duration": [1],
+    "durationUnits": "HR",
+    "completed": false
+  },
+  {
+    "name": "CUTE, FLUFFY, CLOUD FIGHT",
+    "order": 17,
+    "icons": ["outdoors", "daylight", "supplies"],
+    "cost": [5],
+    "timeOfDay": "ANYTIME",
+    "duration": [1],
+    "durationUnits": "HR",
+    "completed": false
+  },
+  {
+    "name": "FUNNY PACKER",
+    "order": 18,
+    "icons": ["supplies", "away", "indoors"],
+    "cost": [15, 30],
+    "timeOfDay": "BEFORE 8PM",
+    "duration": [2, 3],
+    "durationUnits": "HRS",
+    "completed": false
+  },
+  {
+    "name": "TEXAS SNOWBALL FIGHT",
+    "order": 19,
+    "icons": ["mess", "outdoors", "active"],
+    "cost": [5, 20],
+    "timeOfDay": "BEFORE DARK",
+    "duration": [1, 2],
+    "durationUnits": "HRS",
+    "completed": false
+  },
+  {
+    "name": "TASTEFUL ART",
+    "order": 20,
+    "icons": ["mess", "away", "outdoors"],
+    "cost": [5, 25],
+    "timeOfDay": "BEFORE DARK",
+    "duration": [1, 2],
+    "durationUnits": "HRS",
+    "completed": false
+  },
+  {
+    "name": "TELL THEM HOW YOU REALLY FILM",
+    "order": 21,
+    "icons": ["filming", "indoors"],
+    "cost": [0],
+    "timeOfDay": "ANYTIME",
+    "duration": [1],
+    "durationUnits": "HR",
+    "completed": false
+  },
+  {
+    "name": "THE FAMILY CREST",
+    "order": 22,
+    "icons": ["supplies", "indoors"],
+    "cost": [10, 15],
+    "timeOfDay": "ANYTIME",
+    "duration": [1, 2],
+    "durationUnits": "HRS",
+    "completed": false
+  },
+  {
+    "name": "ENCAPSULATE",
+    "order": 23,
+    "icons": ["away", "supplies", "daylight", "outdoors"],
+    "cost": [0, 15],
+    "timeOfDay": "BEFORE DARK",
+    "duration": [2],
+    "durationUnits": "HRS",
+    "completed": false
+  },
+  {
+    "name": "D. D. D. - IT'S AN ACRONYM!",
+    "order": 24,
+    "icons": ["home", "away", "filming"],
+    "cost": [0, 15],
+    "timeOfDay": "BEFORE 9PM",
+    "duration": [1, 2],
+    "durationUnits": "HRS",
+    "completed": false
+  },
+  {
+    "name": "CAPONE'S CAFE",
+    "order": 25,
+    "icons": ["meal", "supplies", "home"],
+    "cost": [25, 40],
+    "timeOfDay": "ANYTIME",
+    "duration": [2],
+    "durationUnits": "HRS",
+    "completed": false
+  },
+  {
+    "name": "NOT YO' GRANDMA'S NACHOS",
+    "order": 26,
+    "icons": ["supplies", "meal", "home"],
+    "cost": [25, 40],
+    "timeOfDay": "ANYTIME",
+    "duration": [2, 3],
+    "durationUnits": "HRS",
+    "completed": false
+  },
+  {
+    "name": "COLOR \"PALATE\"",
+    "order": 27,
+    "icons": ["supplies", "meal", "home"],
+    "cost": [25, 35],
+    "timeOfDay": "ANYTIME",
+    "duration": [1],
+    "durationUnits": "HR",
+    "completed": false
+  },
+  {
+    "name": "NOODLE CUFFS",
+    "order": 28,
+    "icons": ["meal", "mess", "supplies", "home"],
+    "cost": [10, 20],
+    "timeOfDay": "ANYTIME",
+    "duration": [1],
+    "durationUnits": "HR",
+    "completed": false
+  },
+  {
+    "name": "HELPLESS BAKER",
+    "order": 29,
+    "icons": ["snacks", "supplies", "mess"],
+    "cost": [15, 25],
+    "timeOfDay": "ANYTIME",
+    "duration": [2],
+    "durationUnits": "HRS",
+    "completed": false
+  },
+  {
+    "name": "FRUITY FACE-OFF",
+    "order": 30,
+    "icons": ["supplies", "away", "snacks"],
+    "cost": [15, 20],
+    "timeOfDay": "BEFORE 6PM",
+    "duration": [1, 2],
+    "durationUnits": "HRS",
+    "completed": false
+  },
+  {
+    "name": "GOURMET-SICLES",
+    "order": 31,
+    "icons": ["snacks", "supplies", "indoors"],
+    "cost": [10, 15],
+    "timeOfDay": "ANYTIME",
+    "duration": [1, 2],
+    "durationUnits": "HRS",
+    "completed": false
+  },
+  {
+    "name": "D. I. Y'S CREAM",
+    "order": 32,
+    "icons": ["supplies", "snacks"],
+    "cost": [5, 15],
+    "timeOfDay": "ANYTIME",
+    "duration": [1, 2],
+    "durationUnits": "HRS",
+    "completed": false
+  },
+  {
+    "name": "RAVE PAINTER",
+    "order": 33,
+    "icons": ["supplies", "mess", "nighttime"],
+    "cost": [20, 40],
+    "timeOfDay": "AFTER DARK",
+    "duration": [2],
+    "durationUnits": "HRS",
+    "completed": false
+  },
+  {
+    "name": "HIPPY LAUNDRY",
+    "order": 34,
+    "icons": ["supplies", "mess"],
+    "cost": [30, 60],
+    "timeOfDay": "ANYTIME",
+    "duration": [2, 3],
+    "durationUnits": "HRS",
+    "completed": false
+  },
+  {
+    "name": "SCREEN \"PLAY\"",
+    "order": 35,
+    "icons": ["filming", "indoors"],
+    "cost": [0, 10],
+    "timeOfDay": "AFTER DARK",
+    "duration": [30, 60],
+    "durationUnits": "MIN",
+    "completed": false
+  },
+  {
+    "name": "MICHELANGELO GOT NOTHING ON US",
+    "order": 36,
+    "icons": ["mess", "indoors", "snacks"],
+    "cost": [0, 15],
+    "timeOfDay": "ANYTIME",
+    "duration": [1, 2],
+    "durationUnits": "HRS",
+    "completed": false
+  },
+  {
+    "name": "GERONIMO! DOMINO!",
+    "order": 37,
+    "icons": ["indoors"],
+    "cost": [0],
+    "timeOfDay": "ANYTIME",
+    "duration": [30, 60],
+    "durationUnits": "MIN",
+    "completed": false
+  },
+  {
+    "name": "THE INNER SANCTUM",
+    "order": 38,
+    "icons": ["indoors", "snacks"],
+    "cost": [0, 10],
+    "timeOfDay": "ANYTIME",
+    "duration": [2],
+    "durationUnits": "HRS",
+    "completed": false
+  },
+  {
+    "name": "THAT'S JUST GOOD PLANE FUN",
+    "order": 39,
+    "icons": ["home"],
+    "cost": [0, 5],
+    "timeOfDay": "ANYTIME",
+    "duration": [30, 60],
+    "durationUnits": "MIN",
+    "completed": false
+  },
+  {
+    "name": "BASIC TRAINING",
+    "order": 40,
+    "icons": ["indoors", "active"],
+    "cost": [0],
+    "timeOfDay": "ANYTIME",
+    "duration": [1, 2],
+    "durationUnits": "HRS",
+    "completed": false
+  },
+  {
+    "name": "THE CLAWWW",
+    "order": 41,
+    "icons": ["away"],
+    "cost": [10, 20],
+    "timeOfDay": "BEFORE 8PM",
+    "duration": [1, 2],
+    "durationUnits": "HRS",
+    "completed": false
+  },
+  {
+    "name": "THE INCREDIBLES",
+    "order": 42,
+    "icons": ["supplies", "away", "filming"],
+    "cost": [0, 30],
+    "timeOfDay": "BEFORE 8PM",
+    "duration": [2, 3],
+    "durationUnits": "HRS",
+    "completed": false
+  },
+  {
+    "name": "60-SECOND ROAD TRIP",
+    "order": 43,
+    "icons": ["filming", "away"],
+    "cost": [0, 15],
+    "timeOfDay": "BEFORE 9PM",
+    "duration": [1],
+    "durationUnits": "HR",
+    "completed": false
+  },
+  {
+    "name": "STARTED FROM THE BOTTOM, NOW WE HERE",
+    "order": 44,
+    "icons": ["away"],
+    "cost": [0, 5],
+    "timeOfDay": "BEFORE 8PM",
+    "duration": [1],
+    "durationUnits": "HR",
+    "completed": false
+  },
+  {
+    "name": "\"GO WHALE!\"",
+    "order": 45,
+    "icons": ["supplies", "outdoors", "daylight"],
+    "cost": [15, 20],
+    "timeOfDay": "BEFORE DARK",
+    "duration": [2, 3],
+    "durationUnits": "HRS",
+    "completed": false
+  },
+  {
+    "name": "TIC-TAC-TOSS",
+    "order": 46,
+    "icons": ["supplies", "outdoors", "daylight"],
+    "cost": [10, 15],
+    "timeOfDay": "BEFORE DARK",
+    "duration": [1, 2],
+    "durationUnits": "HRS",
+    "completed": false
+  },
+  {
+    "name": "THE GAME OF LIFE...SIZED",
+    "order": 47,
+    "icons": ["supplies", "outdoors", "daylight", "away"],
+    "cost": [0, 15],
+    "timeOfDay": "ANYTIME",
+    "duration": [1, 2],
+    "durationUnits": "HRS",
+    "completed": false
+  },
+  {
+    "name": "HUNGRY, HUNGRY HUMANS",
+    "order": 48,
+    "icons": ["away", "supplies", "outdoors"],
+    "cost": [10, 20],
+    "timeOfDay": "ANYTIME",
+    "duration": [1, 2],
+    "durationUnits": "HRS",
+    "completed": false
+  },
+  {
+    "name": "RUNNER UP",
+    "order": 49,
+    "icons": ["home", "outdoors"],
+    "cost": [0, 15],
+    "timeOfDay": "ANYTIME",
+    "duration": [2, 3],
+    "durationUnits": "HRS",
+    "completed": false
+  },
+  {
+    "name": "THE FINAL BOW",
+    "order": 50,
+    "icons": ["supplies", "indoors", "planAhead"],
+    "cost": [0, 25],
+    "timeOfDay": "ANYTIME",
+    "duration": [2, 3],
+    "durationUnits": "HRS",
+    "completed": false
+  }
+]
